@@ -19,7 +19,7 @@
  || [Source Code](https://github.com/harrypotter0/WebSummer/tree/master/Portfolio) || [Tweet2](https://twitter.com/akashkandpal123/status/872828539988586496)
 
 
-### Day 2: June 9, 2017 Friday
+### Day 3: June 9, 2017 Friday
 
 **Today's Progress**: Not much busy with freecodecamp schedule .
 
