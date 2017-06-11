@@ -28,4 +28,12 @@
 **Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/local-scope-and-functions) || [Tweet3](https://twitter.com/akashkandpal123/status/873131328329457665)
 
 
+### Day 4: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
+
 
